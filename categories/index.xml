@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Rumor Theory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Apr 2020 20:59:54 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2020 08:17:31 +0800</lastBuildDate>
     
 	<atom:link href="http://sports.face8ook.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>chinese</title>
+      <link>http://sports.face8ook.org/categories/chinese/</link>
+      <pubDate>Thu, 02 Apr 2020 08:17:31 +0800</pubDate>
+      
+      <guid>http://sports.face8ook.org/categories/chinese/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>other</title>
@@ -17,15 +26,6 @@
       <pubDate>Wed, 01 Apr 2020 20:59:54 +0800</pubDate>
       
       <guid>http://sports.face8ook.org/categories/other/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>chinese</title>
-      <link>http://sports.face8ook.org/categories/chinese/</link>
-      <pubDate>Wed, 01 Apr 2020 20:55:12 +0800</pubDate>
-      
-      <guid>http://sports.face8ook.org/categories/chinese/</guid>
       <description></description>
     </item>
     
